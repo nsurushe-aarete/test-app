@@ -11,7 +11,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
    {/* <h1>React Amplify App</h1> */}
-   <h1>New App</h1>
+   <h1>New App 22-03-23</h1>
   </React.StrictMode>
 );
 
